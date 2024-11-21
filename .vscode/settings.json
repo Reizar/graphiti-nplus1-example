@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": false,
+  "[ruby]": {
+    "editor.formatOnSave": false
+  },
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#000",
+  },
+}
